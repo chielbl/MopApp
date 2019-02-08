@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Demo1 Hello world</string>
+    <string name="txt_tv_title">Hello world</string>
+    <string name="txt_btn_counter">Increase</string>
+    <string name="txt_btn_decrease">decrease</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demo1 Hello world</string>
+    <string name="txt_tv_title">Hallo Wereld</string>
+    <string name="txt_btn_counter">Optellen</string>
+    <string name="txt_btn_decrease">Aftellen</string>
+</resources>

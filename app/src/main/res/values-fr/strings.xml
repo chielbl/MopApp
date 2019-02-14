@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Demo1 Hello world</string>
-    <string name="txt_tv_title">Bonjour Monde</string>
-    <string name="txt_btn_counter">Augmente</string>
-    <string name="txt_btn_decrease">Diminuer</string>
-</resources>

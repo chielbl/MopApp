@@ -20,4 +20,8 @@ public class MopDAO {
     public ArrayList<Mop> getMopLijst() {
         return mopLijst;
     }
+
+    public void addMop(Mop nieuwMop){
+        mopLijst.add(nieuwMop);
+    }
 }
